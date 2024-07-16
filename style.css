@@ -1,0 +1,45 @@
+#btn{
+     background-color: red;
+     width: 50px;
+     height: 30px;
+}
+.bd{
+    background-color:white;
+    height: 500px;
+}
+.bd h3{
+    color: red;
+    margin-left: 300px;
+    margin-top: 50px;
+}
+.pp{
+    margin-left: 300px;
+    color: black;
+   font-size: larger;
+}
+.ppp{
+    margin-left: 300px;
+    margin-right: 300px;
+}
+.box{
+    margin-left: 300px;
+    background-color: red;
+    width: 600px;
+}
+.pa{
+    margin-left: 300px;
+    margin-right: 500px;
+}
+.ig{
+    width: 200px;
+    height: 200px;
+    margin-left: 800px;
+    margin-top: -400px;
+
+}
+.im{
+    width: 200px;
+    height: 200px;
+    margin-left: 1100px;
+    margin-top: -175px;
+}
